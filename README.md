@@ -9,7 +9,7 @@ _These instructions will allow you to get a working copy of the project on your 
 
 ### Pre requirements 📋
 
-_Before starting, you need to make sure you have an environment with PHP 7.4, Composer 2, MySQL and git, in order to perform the installation process and run the application._
+_Before starting, you need to make sure you have an environment with PHP 7.4, Composer 2, Laravel 8, MySQL and git, in order to perform the installation process and run the application._
 
 
 ### Installation 🔧
@@ -25,6 +25,7 @@ https://github.com/jsolorzano/invoice_manager.git
 2. Install dependencies with Composer:
 
 ```
+cd ../invoice_manager/
 composer install
 ```
 _This step is very important to have all the necessary libraries._
